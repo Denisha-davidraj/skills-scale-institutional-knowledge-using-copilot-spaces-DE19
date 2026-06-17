@@ -24,4 +24,4 @@ Quality is built into each phase instead of deferred to the end. OctoAcme expect
 - **Starting a new project?** Begin with [Project Initiation](./octoacme-project-initiation.md), then move into [Project Planning](./octoacme-project-planning.md).
 - **Managing in-flight delivery?** Use [Execution and Tracking](./octoacme-execution-and-tracking.md) and [Risks and Communication](./octoacme-risks-and-communication.md).
 - **Preparing for launch?** Follow [Release and Deployment](./octoacme-release-and-deployment.md).
-- **Improving future delivery?** Run [Retrospectives and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md).
+- **Improving future delivery?** Run [Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md).
