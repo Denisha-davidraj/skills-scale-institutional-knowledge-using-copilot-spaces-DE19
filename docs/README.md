@@ -25,3 +25,19 @@ Quality is built into each phase instead of deferred to the end. OctoAcme expect
 - **Managing in-flight delivery?** Use [Execution and Tracking](./octoacme-execution-and-tracking.md) and [Risks and Communication](./octoacme-risks-and-communication.md).
 - **Preparing for launch?** Follow [Release and Deployment](./octoacme-release-and-deployment.md).
 - **Improving future delivery?** Run [Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md).
+
+## Contributing and Maintaining This Documentation
+
+These documents are living references. When processes change, update the relevant document and open a pull request for team review before merging.
+
+**How to use this README:**
+- Use the navigation links above to jump directly to the process document you need.
+- Use the Quick Reference section to identify which documents apply to your current project phase.
+- This README is the single entry point — bookmark it and share it with new team members.
+
+**How to update a process document:**
+1. Locate the relevant file in the `docs/` folder.
+2. Make your changes in a new branch with a descriptive name (e.g., `docs/update-release-process`).
+3. Open a pull request describing what changed and why.
+4. Request review from at least one other team member before merging.
+5. If you add a new document, add a corresponding link in the [Process Documentation Navigation](#process-documentation-navigation) section of this README.
